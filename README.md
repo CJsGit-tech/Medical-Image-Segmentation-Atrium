@@ -7,7 +7,7 @@ The accuracy of the model will be measured using the binary_crossentropy loss an
 **Side Note:** Model structures are learned from Coursera Course, Advanced Techniques TensorFlow
 
 ### Data Source:
-Source: http://medicaldecathlon.com/
+Source: http://medicaldecathlon.com/ <br>
 License: https://creativecommons.org/licenses/by-sa/4.0/
 
 ### Project Steps:
