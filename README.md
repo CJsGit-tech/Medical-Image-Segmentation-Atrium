@@ -32,4 +32,4 @@ Optimizer: "Adam"<br>
 <img src = "Images/FCN8_pred_tf_artium.gif">
 
 #### UNET Predicted Result:
-<img src = "Images/UNET_pred_tf_artium.gif">
+<img src = "Images/pred_UNET_tf_artium.gif">
